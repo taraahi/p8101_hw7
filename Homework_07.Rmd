@@ -133,7 +133,7 @@ tbl_regression(overall_model, label = list(urban_pop = "Percent of Urban Populat
 
 ```
 
-`Consumption of Wine Per Capita` is significantly associated with `cirrhosis_death`.
+`Consumption of Wine Per Capita` is significantly associated with `cirrhosis_death` after adjusting for late motherhood, wine consumption and liquor consumption.
 
 ## Question 2
 
